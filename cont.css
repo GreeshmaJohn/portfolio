@@ -1,0 +1,10 @@
+.ge{
+    float: left;
+}
+.fo{
+    float: right;
+    padding-right: 500px;
+}
+.col{
+    background-color: beige;
+}
